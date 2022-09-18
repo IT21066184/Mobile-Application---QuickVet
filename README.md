@@ -13,8 +13,11 @@ Also, the pet owners can propose lab reports of their pets and save them, after 
 
 TEAM MEMBERS
 
+
 IT21066184 - De Zoysa W.L.V
 
 IT21059254 - Dilshan P.G.A
-R.T.P IT21066252 – Rathnayake
+
+IT21066252 – Rathnayake R.T.P
+
 IT21060908 - Karunarathna M.P.M.K
